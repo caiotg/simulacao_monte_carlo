@@ -6,7 +6,7 @@ A simulação de Monte Carlo é uma técnica estatística que utiliza o método 
 
 A fórmula dos retornos sintéticos é uma abordagem para simular retornos de ativos financeiros com base em seus parâmetros estatísticos, como média, desvio padrão e correlações. Ela é amplamente utilizada em simulações de Monte Carlo para criar cenários realistas e explorar diferentes possibilidades.
 
-## Retornos_sintéticos = média_retornos + Rpdf × L.
+**Retornos_sintéticos = média_retornos + Rpdf × L**
 
 ### onde:
 * média_retornos = Média dos retornos.
